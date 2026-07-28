@@ -6,7 +6,7 @@ AlphabetZ is a desktop application developed in C# (.NET WPF) that allows you to
 
 Italiano: 
 
-# 📘 AlphabetZ
+# 📘 AlphabetZ ![image alt](https://github.com/FrankTheUser/AlphabetZ/blob/4f0463097aa1d566d7336ccbb14ee6af866a68ff/Alphabet_Logo.ico)
 
 > **Progetto amatoriale.**
 
@@ -67,11 +67,11 @@ L'obiettivo di AlphabetZ è offrire uno strumento intelligente per consultare, o
 - 5 - Inserisci i tuoi dati e puoi scegliere se ricordare il login oppure no
 - 6 - Adesso sei pronto per usare l'applicazione!
   
-Per creare nuove frasi basta scriverla e cliccare il tasto Aggiungi.
-Come vedi a destra c'è l'alfabeto se vuoi cercare parole con quella iniziale.
-Invece per eliminare la parola cliccare due volte col tasto sinistro.
-Se vuoi modificare il tema basta cliccare in alto a destra Opzioni.
-Per usare il dizionario passa col cursore sopra la parola e aspetta qualche secondo.
+- Per creare nuove frasi basta scriverla e cliccare il tasto Aggiungi.
+- Come vedi a destra c'è l'alfabeto se vuoi cercare parole con quella iniziale.
+- Invece per eliminare la parola cliccare due volte col tasto sinistro.
+- Se vuoi modificare il tema basta cliccare in alto a destra Opzioni.
+- Per usare il dizionario passa col cursore sopra la parola e aspetta qualche secondo.
 
 ## Patch Note
 
