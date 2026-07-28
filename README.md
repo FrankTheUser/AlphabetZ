@@ -8,15 +8,15 @@ Italiano:
 
 # 📘 AlphabetZ
 
-> **Il dizionario intelligente che rende la ricerca delle parole semplice, veloce e immediata.**
+> **Progetto amatoriale.**
 
 AlphabetZ è un'applicazione desktop sviluppata in **C# (.NET WPF)** che permette di creare, organizzare e consultare un dizionario personale attraverso un'interfaccia moderna, intuitiva e completamente personalizzabile.
 
-Progettata per studenti, professionisti e appassionati della lingua italiana, AlphabetZ offre un'esperienza fluida, veloce e utilizzabile anche offline.
+Progettata per studenti e professionisti, AlphabetZ offre un'esperienza fluida, veloce e utilizzabile anche offline.
 
 ---
 
-## ✨ Caratteristiche
+## Caratteristiche
 
 - Gestione completa delle parole dalla **A alla Z**
 - Ricerca istantanea in tempo reale
@@ -29,17 +29,16 @@ Progettata per studenti, professionisti e appassionati della lingua italiana, Al
 
 ---
 
-## 🚀 Tecnologie
+## Tecnologie
 
 - C#
 - .NET
 - WPF
 - XAML
-- SQL Database
 
 ---
 
-## 📸 Interfaccia
+## Interfaccia
 
 AlphabetZ è stato progettato seguendo uno stile moderno ispirato a MacOS, con particolare attenzione alla semplicità d'uso, alle prestazioni e all'esperienza utente.
 
@@ -51,12 +50,28 @@ L'obiettivo di AlphabetZ è offrire uno strumento intelligente per consultare, o
 
 ---
 
-## 🔮 Prossimi sviluppi
+## Prossimi sviluppi
 
 - Traduzione multilingua
 - Dizionario italiano avanzato
 
 ---
+
+## 📖Instruzioni per l'uso
+
+- Per usare AlphabetZ segui queste istruzioni passo passo.
+- 1 - Scarica la release
+- 2 - L'app ha bisogno di .NET 8.0 scaricalo dal seguente link: https://dotnet.microsoft.com/it-it/download/dotnet/8.0
+- 3 - Dopo aver completato l'istallazione di .NET puoi avviare AlphabetZ.exe
+- 4 - Adesso ti farà accedere o registrare, clicca su registrati
+- 5 - Inserisci i tuoi dati e puoi scegliere se ricordare il login oppure no
+- 6 - Adesso sei pronto per usare l'applicazione!
+  
+Per creare nuove frasi basta scriverla e cliccare il tasto Aggiungi.
+Come vedi a destra c'è l'alfabeto se vuoi cercare parole con quella iniziale.
+Invece per eliminare la parola cliccare due volte col tasto sinistro.
+Se vuoi modificare il tema basta cliccare in alto a destra Opzioni.
+Per usare il dizionario passa col cursore sopra la parola e aspetta qualche secondo.
 
 ## Patch Note
 
