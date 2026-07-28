@@ -66,7 +66,7 @@ L'obiettivo di AlphabetZ è offrire uno strumento intelligente per consultare, o
 - 4 - Adesso ti farà accedere o registrare, clicca su registrati
 - 5 - Inserisci i tuoi dati e puoi scegliere se ricordare il login oppure no
 - 6 - Adesso sei pronto per usare l'applicazione!
-  
+  ----------------------------------------------------------------------------
 - Per creare nuove frasi basta scriverla e cliccare il tasto Aggiungi.
 - Come vedi a destra c'è l'alfabeto se vuoi cercare parole con quella iniziale.
 - Invece per eliminare la parola cliccare due volte col tasto sinistro.
