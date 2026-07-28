@@ -6,7 +6,7 @@ AlphabetZ is a desktop application developed in C# (.NET WPF) that allows you to
 
 Italiano: 
 
-# 📘 AlphabetZ ![image alt](https://github.com/FrankTheUser/AlphabetZ/blob/4f0463097aa1d566d7336ccbb14ee6af866a68ff/Alphabet_Logo.ico)
+# 📘 AlphabetZ
 
 > **Progetto amatoriale.**
 
